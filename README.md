@@ -1,2 +1,3 @@
-This a repository created for the data structures and algorithms
+# Repo which has Implementation of Data structures and Algorithms
+
 
